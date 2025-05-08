@@ -7,17 +7,17 @@
   {
     "name": "Agenda",
     "path": "/agenda",
-    "visible": true
+    "visible": false
   },
   {
     "name": "Speakers",
     "path": "/speakers",
-    "visible": true
+    "visible": false
   },
   {
     "name": "Bootcamp",
     "path": "/bootcamp",
-    "visible": true
+    "visible": false
   },
   {
     "name": "Photo Booth",
@@ -37,12 +37,12 @@
   {
     "name": "Sponsor Us",
     "path": "/sponsor-us",
-    "visible": false
+    "visible": true
   },
   {
     "name": "Arcade",
     "path": "/arcade",
-    "visible": false
+    "visible": true
   },
   {
     "name": "FAQ",

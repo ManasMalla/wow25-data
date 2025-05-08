@@ -3,50 +3,22 @@
         "category_name": "Sponsors",
         "sponsors": [
             {
-                "name": "Google For Developers",
-                "link": "https://developers.google.com",
-                "logo": "googlefordevelopers.png"
-            },
-            {
                 "name": "GITAM Deemed to be University",
                 "link": "https://gitam.edu",
                 "logo": "gitam.png"
-            },
-            {
-                "name": "TheDigiFac",
-                "link": "https://www.thedigifac.com/",
-                "logo": "thedigifac.png"
             }
         ]
     },
     {
         "category_name": "",
         "sponsors": [
-            {
-                "name": "MSI India",
-                "link": "https://in.msi.com/",
-                "logo": "msi.png"
-            },
-            {
-                "name": "ā-hub",
-                "link": "https://www.a-hub.co/",
-                "logo": "ahub.png"
-            }
+           
         ]
     },
     {
         "category_name": "Partners",
         "sponsors": [
-            {
-                "name": "WTM",
-                "link": "https://gdg.community.dev/events/details/google-gdg-vizag-presents-wtm-vizag-presents-international-womens-day-vizag-2023/",
-                "logo": "wtm.png"
-            },
-            {
-                "name": "Kalam Dream Labs",
-                "link": "https://kalamdreamlabs.com/",
-                "logo": "kdl.png"
-            }
+           
         ]
     }
 ]
