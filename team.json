@@ -1,0 +1,173 @@
+[
+  {
+    "id": "6001",
+    "name": "Usha Ramani Vemuru",
+    "company": {
+      "name": "Gurujada IT",
+      "designation": "Co-Founder"
+    },
+    "community_title": "WTM Ambassador | Organizer",
+    "image": "usha.webp",
+    "bio": "I am an ed-tech entrepreneur from India extremely passionate about helping people and making a difference. I love travelling and also run communities for Google in my home town Visakhapatnam. I navigate the roles of a boss lady, community organiser and a family woman. With every event, we help local developers learn, share, connect, collaborate and enhance their opportunities in the tech domain.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/usha-ramani-vemuru-66286723",
+      "twitter": "https://x.com/vusharamani",
+      "medium": "https://medium.com/@usharamani"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Sampath Balivada",
+    "company": {
+      "name": "PayPal",
+      "designation": "SDE"
+    },
+    "community_title": "Organizer",
+    "image": "sampath.jpeg",
+    "bio": "Building intuitive and engaging (customer, developer, user, visual) experiences is my Ikigai.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/sampathbalivada",
+      "twitter": "https://twitter.com/sampathbalivada",
+      "github": "https://github.com/sampathbalivada",
+      "web": "https://sampath.dev/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6003",
+    "name": "Manas Malla",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "CEO"
+    },
+    "community_title": "Google Product Expert for Android",
+    "image": "manas.jpg",
+    "bio": "A student, designer, and developer with experience in over 45+ languages and frameworks over the last 6+ years. Built over 10+ sustainable solutions, 35+ apps and 56+ UI designs. Building solutions is my ikigai #BeingAForceForChange. My journey has been fueled by a desire to create experiences that are both functional, engaging, intuitive and accessible, empowering individuals and communities. I am always striving to push the boundaries of what's possible with technology.",
+    "social": {
+      "instagram": "https://www.instagram.com/manas_malla",
+      "linkedin": "https://www.linkedin.com/in/manasmalla/",
+      "twitter": "https://twitter.com/_malla_manas_",
+      "github": "https://github.com/ManasMalla",
+      "web": "https://manasmalla.dev/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6005",
+    "name": "Swapna Dande",
+    "company": {
+      "name": "Tata Consultancy Services",
+      "designation": "Developer"
+    },
+    "community_title": "WTM Ambassador",
+    "image": "swapna.jpeg",
+    "bio": "I'm a curious mind, always exploring new horizons. I'm passionate about harnessing the power of AI and ML to create innovative solutions that make a positive impact. As a WTM Ambassador, I'm dedicated to empowering individuals and communities through technology. A fearless traveler, I believe in breaking barriers and empowering women to reach their full potential. Let's connect and inspire each other!",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/swapna-dande-82ba06208",
+      "github": "https://github.com/Swapna-Dande"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6006",
+    "name": "Satish Karnatakapu",
+    "company": {
+      "name": "Kalam Dream Labs",
+      "designation": "Founder"
+    },
+    "community_title": "Developer",
+    "image": "satish.jpg",
+    "bio": "An ardent follower of APJ Abdul Kalam whom he passionately idolizes, he draws inspiration from the work ethics of Steve Jobs. He is unswervingly working towards instituting a better society with happier humans. He is a social entrepreneur and an innovator, who flagged off Vizag Volunteers, as a project under Kalam Dream Labs to serve the poor and needy and is dedicated to making our city and the world at large - a healthier and a happier place to live.",
+    "social": {
+      "instagram": "https://www.instagram.com/websatish/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6004",
+    "name": "Kavya Chandana",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "COO, CFO"
+    },
+    "community_title": "Core Contributor",
+    "image": "kavya.png",
+    "bio": "A problem solver who uses his creative talents to tackle design-related challenges. With a keen eye for detail and an innate understanding of infographics, visual design, and UI/UX. I am able to transform complex information into visually compelling and user-friendly designs. Whether it includes working on a brand-new project or revamping an existing design.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kavya-chandana-834748259/",
+      "instagram": "https://www.instagram.com/kavya_chandana__"
+    },
+    "type": "Core-Contributor"
+  },
+  {
+    "id": "6007",
+    "name": "Chandan Khamitkar",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "Full Stack Developer"
+    },
+    "community_title": "Core Contributor, Web",
+    "image": "chandan.jpg",
+    "bio": "A developer and student pursuing Bachelors in Computer Science Engineering. Experienced in over 19 languages- frameworks with over a year experience building rich experiences as a Full-Stack Web Developer. Interned at Ati Uttam (a SAAS based company)",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khamitkar-sai-chandan-b91802259/",
+      "twitter": "https://x.com/chandan_k_dev",
+      "github": "https://github.com/ChandanKhamitkar",
+      "web": "https://chandan-khamitkar-dev.vercel.app/"
+    },
+    "type": "Core-Contributor"
+  },
+  {
+    "id": "6008",
+    "name": "Jayadhar Ummadisingu",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "ML Intern"
+    },
+    "community_title": "Core Volunteer",
+    "image": "jayadhar.jpg",
+    "bio": "Passionate about Machine Learning, I enjoy solving problems, learning new technologies, and creating impactful solutions. Eager to grow and contribute to tech.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jayadhar-ummadisingu-2a825b25a/",
+      "twitter": "https://x.com/8Jayadhar8",
+      "github": "https://github.com/U-Jayadhar",
+      "web": "https://u-jayadhar.github.io/My-Portfolio-Website/"
+    },
+    "type": "Core-Contributor"
+  },
+  {
+    "id": "6009",
+    "name": "Palleti Varshita",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "Web Intern"
+    },
+    "community_title": "Core Volunteer",
+    "image": "varshita.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/varshita-palleti-34209625a/",
+      "github": "https://github.com/Palleti-Varshita",
+      "web": "https://varshitapalleti.vercel.app/"
+    },
+    "type": "Core-Contributor"
+  },
+  {
+    "id": "6010",
+    "name": "Revanth Peethala",
+    "company": {
+      "name": "The Ananta Studio",
+      "designation": "ML Intern"
+    },
+    "community_title": "Core Volunteer",
+    "image": "revanth.jpg",
+    "bio": "Passionate about solving real-world problems, exploring machine learning and its derivatives and eager to apply my skills in a dynamic, growth-oriented environment.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/revanthpeethala/",
+      "twitter": "https://x.com/RevanthP21",
+      "github": "https://github.com/P-Revanth"
+    },
+    "type": "Core-Contributor"
+  }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Follow us on Instagram.",
+        "action": {
+            "link": "https://instagram.com/gdg_vizag/",
+            "text": "Follow Now"
+        }
+    },
+    {
+        "text": "Happy Coding. 😊"
+    }
+]
