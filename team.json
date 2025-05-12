@@ -25,7 +25,7 @@
       "name": "Aditya College of Engineering and Technology",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "akhil.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -41,7 +41,7 @@
       "name": "Vignan's Institute Of Information Technology",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "himavarshini.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -57,7 +57,23 @@
       "name": "Vignan's Institute of Engineering For Women",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "thanuja.jpg",
+    "bio": "Sample Bio",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/",
+      "twitter": "https://x.com/",
+      "medium": "https://medium.com/"
+    },
+    "type": "Core"
+  },
+   {
+    "id": "6014",
+    "name": "Naga Sathvik Rapelli",
+    "company": {
+      "name": "Narayana Engineering College",
+      "designation": "Lead"
+    },
+    "image": "sathvik.png",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -73,7 +89,7 @@
       "name": "Pace Institute of Technology and Sciences",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "charan_m_d_s.jpeg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -82,22 +98,7 @@
     },
     "type": "Core"
   },
-  {
-    "id": "6014",
-    "name": "Naga Sathvik Rapelli",
-    "company": {
-      "name": "Narayana Engineering College",
-      "designation": "Lead"
-    },
-    "image": "",
-    "bio": "Sample Bio",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "https://x.com/",
-      "medium": "https://medium.com/"
-    },
-    "type": "Core"
-  },
+ 
   {
     "id": "6015",
     "name": "Ashish Nallana",
@@ -105,7 +106,7 @@
       "name": "Gayatri Vidya Parishad College of Engineering",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "ashish.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -121,7 +122,7 @@
       "name": "Shri Vishnu Engineering College for Women",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "saathwika.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -137,7 +138,7 @@
       "name": "Geethanjali Institute of Science and Technology",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "ayesha.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -153,7 +154,7 @@
       "name": "Gayatri Vidya Parishad College of Engineering for Women",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "sirisha.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
@@ -169,7 +170,7 @@
       "name": "Andhra University College of Engineering",
       "designation": "Lead"
     },
-    "image": "",
+    "image": "dinesh.jpg",
     "bio": "Sample Bio",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
